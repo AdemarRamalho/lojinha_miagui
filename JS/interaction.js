@@ -4,7 +4,7 @@ let ITENS_LOJA = [
         preco:86.30,
         titulo_preco:"preço:",
         url_img:"./img/bola_copa.webp",
-        titulo_discricao:"Discrição",
+        titulo_discricao:"Descrição:",
         descricao:"Bola utilizada na Copa do Mundo, idela para utilizar em campo e colecionar"
     },
     {
@@ -13,7 +13,7 @@ let ITENS_LOJA = [
         titulo_preco:"preço:",
         url_img:"./img/carro_hotwheels.jpeg",
         descricao:"Carrinho para dar de presentes para crianças ou colecionar",
-        titulo_discricao:"Discrição",
+        titulo_discricao:"Descrição:",
     },
     {
         nome:"Chinelo",
@@ -21,7 +21,7 @@ let ITENS_LOJA = [
         titulo_preco:"preço:",
         url_img:"./img/chinelo.webp",
         descricao:"Chinelo para se utilizar em qualquer lugar",
-        titulo_discricao:"Discrição",
+        titulo_discricao:"Descrição:",
     },
     {
         nome:"Escorredor de Louça",
@@ -29,7 +29,7 @@ let ITENS_LOJA = [
         titulo_preco:"preço:",
         url_img:"./img/escorredor_louca.webp",
         descricao:"Utilizando para ajudar no processo de secagem dos utensilios",
-        titulo_discricao:"Discrição",
+        titulo_discricao:"Descrição:",
     },
     {
         nome:"Espada Medieval",
@@ -37,7 +37,7 @@ let ITENS_LOJA = [
         titulo_preco:"preço:",
         url_img:"./img/espada_medieval.png",
         descricao:"Utilizada em batalhar para neutralizar o inimigo ou como item de decoração",
-        titulo_discricao:"Discrição",
+        titulo_discricao:"Descrição:",
     },
     {
         nome:"Guitarra",
@@ -45,7 +45,7 @@ let ITENS_LOJA = [
         titulo_preco:"preço:",
         url_img:"./img/guitarra.webp",
         descricao:"Otima para utilizar em bandas de hard rock",
-        titulo_discricao:"Discrição",
+        titulo_discricao:"Descrição:",
     },
     {
         nome:"Toalha de Banho",
@@ -53,7 +53,7 @@ let ITENS_LOJA = [
         titulo_preco:"preço:",
         url_img:"./img/toalha_banho.webp",
         descricao:"Boa para se secar apos o banho",
-        titulo_discricao:"Discrição",
+        titulo_discricao:"Descrição:",
     },
     {
         nome:"Vinho",
@@ -61,7 +61,7 @@ let ITENS_LOJA = [
         titulo_preco:"preço:",
         url_img:"./img/vinho.webp",
         descricao:"Vinho que harmoniza muito bem com carnes vermelhas ",
-        titulo_discricao:"Discrição",
+        titulo_discricao:"Descrição:",
     }
 ]
 let sessao = document.getElementById("sessao-venda");
